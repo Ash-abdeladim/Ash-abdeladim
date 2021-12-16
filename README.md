@@ -7,4 +7,4 @@
 [![achrafabdeladim Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-abdeladim
 &show_icons=true&theme=radical)](
 
-![Profile views](https://gpvc.arturio.dev/achrafabdeladim)
+<!-- ![Profile views](https://gpvc.arturio.dev/achrafabdeladim) -->
