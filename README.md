@@ -1,4 +1,4 @@
-[![<aabdelad>'s 42 stats](https://badge.mediaplus.ma/darkblue/<aabdelad>)](https://github.com/Ash-abdeladim/badge42)
+[![aabdelad's 42 stats](https://badge.mediaplus.ma/landscapes/aabdelad)](https://github.com/oakoudad/badge42)
 
 [![achrafabdeladim GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash-abdeladim&show_icons=true&theme=radical)](https://github.com/Ash-abdeladim)
 
