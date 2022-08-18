@@ -1,3 +1,6 @@
+<a href="#"><img width="100%" height="auto" src="https://giphy.com/gifs/computer-cowboy-bebop-bi6RQ5x3tqoSI" height="175px"/></a>
+
+
 [![aabdelad's 42 stats](https://badge.mediaplus.ma/landscapes/aabdelad)](https://github.com/oakoudad/badge42)
 
 [![achrafabdeladim GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash-abdeladim&show_icons=true&theme=radical)](https://github.com/Ash-abdeladim)
