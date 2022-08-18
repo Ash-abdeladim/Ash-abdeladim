@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <a href="#"><img width="100%" height="auto" src="https://assets.pinterest.com/ext/embed.html?id=604749056229508829.gif" height="175px"/></a>
+  <a href="#"><img width="100%" height="auto" src="https://assets.pinterest.com/ext/embed.html?id=604749056229508829" height="175px"/></a>
   <!--<iframe src="https://assets.pinterest.com/ext/embed.html?id=604749056229508829" height="359" width="345" frameborder="0" scrolling="no" ></iframe>-->
  </div>
 <!-- <iframe src="https://giphy.com/embed/bi6RQ5x3tqoSI" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cowboy-bebop-bi6RQ5x3tqoSI">via GIPHY</a></p>
