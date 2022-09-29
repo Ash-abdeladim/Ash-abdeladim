@@ -1,4 +1,9 @@
-<h3>A5#</h3>
+<style>
+.name{
+color : red;
+}
+</style>
+<h3 class = "name">A5#</h3>
 
 [![aabdelad's 42 stats](https://badge.mediaplus.ma/landscapes/aabdelad)](https://github.com/oakoudad/badge42)
 
